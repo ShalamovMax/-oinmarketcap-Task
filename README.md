@@ -6,11 +6,9 @@ Task to Koshelek.ru
 Historical data scraper for [coinmarketcap](https://coinmarketcap.com/) written in python 3.
 
 ## Dependencies
-- bs4
-- numpy
-- pandas
+- json
 - requests
-- tqdm
+- tkinter
 ```
 pip install bs4 numpy pandas requests tqdm
 ```

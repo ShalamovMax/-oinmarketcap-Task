@@ -10,7 +10,7 @@ Historical data scraper for [coinmarketcap](https://coinmarketcap.com/) written 
 - requests
 - tkinter
 ```
-pip install bs4 numpy pandas requests tqdm
+pip install json, requests, tkinter
 ```
 ```
 run main.py

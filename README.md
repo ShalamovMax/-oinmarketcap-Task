@@ -6,7 +6,7 @@ Task to Koshelek.ru
 Top 10 [coinmarketcap](https://coinmarketcap.com/) written in python 3.
 
 ## Dependencies
-Add your coinmarketcap "API_YOUR_KEY" in main.py #11
+```Add your coinmarketcap "API_YOUR_KEY" in main.py #11```
 
 - json
 - requests
